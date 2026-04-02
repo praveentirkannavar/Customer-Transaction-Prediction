@@ -64,5 +64,7 @@ These features help capture hidden patterns in the data.
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
+2. pip install -r requirements.txt
+3. jupyter notebook
 
 [git clone https://github.com/your-username/your-repo-name.git](https://github.com/praveentirkannavar/Customer-Transaction-Prediction)
