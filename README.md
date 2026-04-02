@@ -2,9 +2,9 @@
 End-to-end machine learning project for predicting customer transactions with feature engineering and model evaluation.
 
 
-# 🧠 Customer Transaction Prediction
+#  Customer Transaction Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project aims to predict whether a customer will make a transaction or not using machine learning techniques.
 
 The dataset contains a large number of anonymized features, and the goal is to classify customers into:
@@ -13,7 +13,7 @@ The dataset contains a large number of anonymized features, and the goal is to c
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 - Dataset contains **200 features**
 - Includes:
   - `ID_code` → Unique identifier (removed during preprocessing)
@@ -22,7 +22,7 @@ The dataset contains a large number of anonymized features, and the goal is to c
 
 ---
 
-## 🔍 Data Preprocessing
+##  Data Preprocessing
 - Removed unnecessary column: `ID_code`
 - Checked for missing values (none found)
 - Analyzed data types and distributions
@@ -30,7 +30,7 @@ The dataset contains a large number of anonymized features, and the goal is to c
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 New features were created to improve model performance:
 
 - Mean
@@ -44,7 +44,7 @@ These features help capture hidden patterns in the data.
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 - Split data into training and testing sets
 - Applied machine learning classification techniques
 - Evaluated model performance on test data
@@ -53,7 +53,7 @@ These features help capture hidden patterns in the data.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -64,5 +64,5 @@ These features help capture hidden patterns in the data.
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/praveentirkannavar/Customer-Transaction-Prediction)
